@@ -8,6 +8,8 @@
 
 2-Follow the instruction below to install Ubuntu on PC
 
+https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
+
 ## Install ROS on Remote PC
 ````
 $ sudo apt update
