@@ -7,8 +7,7 @@
 1-Download the proper Ubuntu 20.04 LTS Desktop image for your PC from the links : https://releases.ubuntu.com/20.04/
 
 2-Follow the instruction below to install Ubuntu on PC
-
-https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
+-- https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
 
 ## Install ROS on Remote PC
 ````
